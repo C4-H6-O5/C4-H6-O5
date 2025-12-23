@@ -16,20 +16,16 @@
  —( <b>C</b> )—( <b>H</b> )—( <b>O</b> )—
 </div>
 
-<br />
-
 ## 👨‍💻 About Me
 - 🔭 **Current Focus:** Low-level programming, web dev, and game dev.
 - 🎓 **Education:** Computer Science Student at BatStateU.
 - 📸 **Background:** I combine technical studies with experience in  media production.
 - 🧪 **Alias:** My handle is the chemical formula for Malic Acid.
 
-<br />
 
 ## ⚙️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,arduino,vscode,ps,pr,blender&theme=dark)](https://skillicons.dev)
 
-<br />
 
 ## 🛠️ Projects
 
@@ -77,14 +73,12 @@
   </tr>
 </table>
 
-<br />
 
 ## 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4-H6-O5&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
-<br />
 
 ## ⚡ Connect
 <div align="center">
