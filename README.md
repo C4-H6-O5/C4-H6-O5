@@ -10,11 +10,11 @@
   
 </div>
 
-<br />
-
 <div align="center">
  —( <b>C</b> )—( <b>H</b> )—( <b>O</b> )—
 </div>
+
+<br />
 
 ## 👨‍💻 About Me
 - 🔭 **Current Focus:** Low-level programming, web dev, and game dev.
