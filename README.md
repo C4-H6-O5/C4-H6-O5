@@ -72,22 +72,3 @@
     </td>
   </tr>
 </table>
-
-
-## 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4-H6-O5&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
-
-## ⚡ Connect
-<div align="center">
-  <a href="https://www.linkedin.com/in/mhalik-perez-34723935b/" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mhalikperez@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-</div>
-
-<br/>
