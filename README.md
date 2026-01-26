@@ -33,9 +33,6 @@
   <tr>
     <td align="center" width="33%">
       <a href="#">
-        <img src="https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?q=80&w=1000&auto=format&fit=crop"
-             alt="Search and Rescue IoT"
-             style="width:100%; height:180px; object-fit:cover; border-radius: 10px;"/>
       </a>
       <br/><br/>
       <b>SARGE</b><br/>
@@ -46,9 +43,6 @@
     </td>
     <td align="center" width="33%">
       <a href="#">
-        <img src="https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=1000&auto=format&fit=crop"
-             alt="Gear Grab Digital"
-             style="width:100%; height:180px; object-fit:cover; border-radius: 10px;"/>
       </a>
       <br/><br/>
       <b>Gear Grab Digital</b><br/>
@@ -59,9 +53,6 @@
     </td>
     <td align="center" width="33%">
       <a href="#">
-        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop"
-             alt="Creative Portfolio"
-             style="width:100%; height:180px; object-fit:cover; border-radius: 10px;"/>
       </a>
       <br/><br/>
       <b>Creative Portfolio</b><br/>
